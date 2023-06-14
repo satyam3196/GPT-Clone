@@ -1,6 +1,6 @@
 # GPT Clone
 
-![App Page Screenshot](images)
+![App Page Screenshots](images)
 
 A project that aims to clone the functionality of GPT (Generative Pre-trained Transformer), utilizing React and JavaScript for the frontend, and server.js for the backend.
 
