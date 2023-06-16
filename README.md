@@ -29,9 +29,7 @@ cd gpt-clone
 
 3. Install the frontend and backend dependencies:
 npm install
-cd client
-npm install
-cd ..
+
 This will install the required dependencies for both the frontend and backend components of the project.
 
 
